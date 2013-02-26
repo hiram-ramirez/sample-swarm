@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<swarm>
+	<!-- comma delimited list of who you email the build to on success -->
+	<to_success>hiram@bytefly.com</to_success>
+	<!-- comma delimited list of who you email to on build failures -->
+	<to_failure>hiram@bytefly.com</to_failure>
+	<!-- xcode+testflight only api token from testflight -->
+	<testflight_token></testflight_token>
+	<!-- xcode+testflight only distribution group name from testflight -->
+	<testflight_distribution_group></testflight_distribution_group>
+</swarm>
